@@ -9,5 +9,5 @@ Structure:
   - Comments with meanings of difficult words used in the question
 
 Note:
-- "ADVANCE" section is intentionally excluded as requested.
+- "ADVANCE" section is intentionally excluded.
 - Some question numbers are duplicated in the source PDF text. Filenames preserve the question number exactly as written under each section.
