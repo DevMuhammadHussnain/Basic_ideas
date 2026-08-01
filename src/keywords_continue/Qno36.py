@@ -1,0 +1,11 @@
+# Qno.36
+# Loop through list of numbers and skip even numbers using continue.
+# Difficult words:
+# - even: divisible by 2
+
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+for n in numbers:
+    if n % 2 == 0:
+        continue
+    print(n)
